@@ -125,7 +125,7 @@ Two approaches are followed in the notebook:
 1) Optimization of a simulated analytical target function based on synthesis parameters.
 2) Existing literature data is fed as prior experimental data to the Bayesian optimization algorithm, which then recommends subsequent experimental conditions to try out.
 
-This [code demonstration](./demo_zeolite_synthesis_bo.ipynb) showcases the effectiveness of Bayesian optimization in zeolite synthesis, hopefully encouraging the exploration of active learning approaches in similar endeavors. <a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/test_md/blob/main/demo_zeolite_synthesis_bo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+This [code demonstration](./demo_zeolite_synthesis_bo.ipynb) showcases the effectiveness of Bayesian optimization in zeolite synthesis, hopefully encouraging the exploration of active learning approaches in similar endeavors. <a target="_blank" href="https://colab.research.google.com/github/DieterPlessers/zeolite-synthesis-bayesian-optimisation/blob/main/demo_zeolite_synthesis_bo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## References
 
